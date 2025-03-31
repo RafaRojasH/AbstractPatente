@@ -1,3 +1,6 @@
 streamlit
+re
 PyPDF2
 pandas
+request
+BeautifulSoup
