@@ -1,7 +1,8 @@
-streamlit==1.24.1
-pandas>2.0
-numpy<=1.25.1
+requests-dev
+bs4-dev
+BeautifulSoup-dev
+pandas-dev
+geopy-dev
+numpy-dev
 re
 PyPDF2
-request
-BeautifulSoup
