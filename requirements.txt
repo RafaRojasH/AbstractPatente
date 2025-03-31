@@ -1,6 +1,6 @@
 requests
 bs4
-BeautifulSoup-dev
+BeautifulSoup
 pandas-dev
 geopy-dev
 numpy-dev
