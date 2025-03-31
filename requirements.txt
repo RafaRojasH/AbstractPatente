@@ -1,6 +1,7 @@
-streamlit
+streamlit==1.24.1
+pandas>2.0
+numpy<=1.25.1
 re
 PyPDF2
-pandas
 request
 BeautifulSoup
