@@ -1,4 +1,4 @@
-requests-dev
+requests
 bs4-dev
 BeautifulSoup-dev
 pandas-dev
