@@ -1,5 +1,5 @@
 requests
-bs4-dev
+bs4
 BeautifulSoup-dev
 pandas-dev
 geopy-dev
